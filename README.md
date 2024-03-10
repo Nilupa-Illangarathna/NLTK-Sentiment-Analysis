@@ -3,6 +3,11 @@
 ## Overview
 This Python script performs sentiment analysis on a given set of sentences using the Natural Language Toolkit (NLTK). The sentiment analysis is based on the VADER sentiment analysis tool, which assigns a polarity score to each sentence. The results are presented in a tabular format using the Pandas library.
 
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![NLTK Version](https://img.shields.io/badge/NLTK-3.6-blue)](https://www.nltk.org/)
+[![Pandas Version](https://img.shields.io/badge/Pandas-1.0%2B-blue)](https://pandas.pydata.org/)
+
+
 ## Prerequisites
 Before running the script, make sure to install the required libraries by executing the following commands:
 
